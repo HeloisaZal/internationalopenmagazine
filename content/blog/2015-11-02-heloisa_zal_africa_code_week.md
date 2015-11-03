@@ -9,7 +9,7 @@ ICBM: -33.924868,18.424055
 GeoPosition: -33.924868;18.424055
 GeoPlacename: Cape Town
 GeoRegion:  ZA-WC
-Summary: <div style="float: left; padding:5px"><img src="/images/2015-11-02-heloisa_zal_africacodeweek/africa-code-week-tagline-date-url.png" height="100" alt="africa code week logo "><img src="/images/2015-11-02-heloisa_zal_africacodeweek/heloisa_zal.jpg" alt="Heloisa Zal" height="100"></div>Heloisa ZAL reports about her voyage to Cape Town, South Africa, where she helped during Africa Code Week to teach children about Scratch and coding. <div style="clear:both;"></div>
+Summary: <div style="float: left; padding:5px"><img src="/images/2015-11-02-heloisa_zal_africacodeweek/africa-code-week-tagline-date-url.png" height="100" alt="africa code week logo "><img src="/images/2015-11-02-heloisa_zal_africacodeweek/heloisa_zal.jpg" alt="Heloisa Zal" height="100"></div>Heloisa Zal reports about her voyage to Cape Town, South Africa, where she could participate of Scratch workshop for children and youth and learn more about the Africa Code Week - a big event promoting coding learning for 17 countries of the continent. <div style="clear:both;"></div>
 
 <div style="float:right; width:260px; padding: 5px; margin: 5px; background-color: #bbbbbb;"> 
 <b>Name</b>: <a href="https://www.facebook.com/Educa%C3%A7%C3%A3o-Criativa-1385490211757752/">Heloisa ZAL</a><br>
